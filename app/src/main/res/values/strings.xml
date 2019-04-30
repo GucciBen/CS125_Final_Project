@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">CS125 Final Project</string>
     <string name="title_bar">CALM</string>
-    <string name="advice_0">Advice 0</string>
-    <string name="advice_0_text">
+    <string name="help">Help</string>
+    <string name="help_text">
         Lorem ipsum dolor sit amet, his autem dolor forensibus ei, omnes fastidii deleniti an usu, assum neglegentur cum cu. Eam ut aeque dolor labore. Natum debet fierent qui ea, etiam legimus cu sit. Ei congue signiferumque qui, facilisi reprimique ullamcorper per ut, vim at equidem similique suscipiantur.
 
 Sea mundi nostrum placerat an, cu adversarium reprehendunt est, pro consul consequuntur ad. Eu amet discere sea, te vis simul tincidunt, habeo consul commune sea te. Ei soleat mentitum eum, vim consulatu vituperatoribus ut. Sale percipit ex sit, facilis instructior cum ad. Ut scripta deterruisset has, eam dicam iudico intellegebat in.
@@ -23,5 +23,35 @@ Eum malis nemore convenire ut. Habeo vitae latine sed eu. Id omnes debitis philo
 
 Vim nobis vivendo antiopam ei, quot paulo phaedrum sea an. No usu aeque dissentias, ex amet salutandi concludaturque est. At illum etiam quando usu, eu vivendum prodesset nam. Ad sit quando euripidis. Eam no errem voluptua senserit.
     </string>
+    <string name="advice_1">Advice</string>
+    <string name="advice_1_text">
+        Lorem ipsum dolor sit amet, his autem dolor forensibus ei, omnes fastidii deleniti an usu, assum neglegentur cum cu. Eam ut aeque dolor labore. Natum debet fierent qui ea, etiam legimus cu sit. Ei congue signiferumque qui, facilisi reprimique ullamcorper per ut, vim at equidem similique suscipiantur.
+
+Sea mundi nostrum placerat an, cu adversarium reprehendunt est, pro consul consequuntur ad. Eu amet discere sea, te vis simul tincidunt, habeo consul commune sea te. Ei soleat mentitum eum, vim consulatu vituperatoribus ut. Sale percipit ex sit, facilis instructior cum ad. Ut scripta deterruisset has, eam dicam iudico intellegebat in.
+
+Ne clita inimicus quo, oblique detraxit democritum in vis. Ne fuisset assueverit nec, sea disputando intellegebat ex, commune neglegentur disputationi vim cu. Cu affert graeco temporibus est, nam et alterum torquatos. Ut vitae propriae oportere vix, iuvaret placerat assueverit eum ei. In vix paulo veritus delicatissimi.
+
+An eum nulla perpetua complectitur, ad posse saperet mel. Homero labores an est. Ius cu falli persecuti, nam et oportere elaboraret. Mei ex eruditi copiosae accusamus. Ex vel accusam corpora euripidis, ex vim modo verterem. At vim aeterno perfecto, duis choro an eam.
+
+Sea choro dolore fierent ei, lobortis ullamcorper te quo. Id porro homero intellegat sea, eu modo tantas his, sed ne solum libris. Enim iudicabit ex vel. Ad clita partiendo sea. Possim maluisset no mea, quas omnium no qui.
+
+Essent nostro instructior ad has, usu dolorem ancillae verterem et. Putant noluisse sadipscing vel te, eu eos vivendo propriae, sint partem ubique cu nam. An elitr impetus impedit eos, molestie tractatos in quo. Equidem oportere mei in. Audire discere petentium eam ex, ex mei sint mutat utroque, per ad audiam principes.
+
+Harum semper cu eam. Ei esse qualisque mel. Qui eu illum numquam, modus augue exerci pro ne, sit wisi tantas numquam cu. Ius cu iriure legimus, laboramus interpretaris no mel. Ut his etiam epicurei. Discere equidem detraxit id sed, per te amet mutat facete.
+
+Stet zril fierent mea te, at sed audire omittam. Sit labores honestatis cotidieque ei. Nam odio mazim argumentum ne, choro ornatus vim ei, no verterem invenire theophrastus sit. Mea libris omittam an, te nonumy dolorem splendide quo.
+
+Eum malis nemore convenire ut. Habeo vitae latine sed eu. Id omnes debitis philosophia duo. Sea cu wisi voluptua iracundia. Eam wisi munere ocurreret et. Sea liber tractatos maiestatis cu. No usu incorrupte efficiantur definitionem.
+
+Vim nobis vivendo antiopam ei, quot paulo phaedrum sea an. No usu aeque dissentias, ex amet salutandi concludaturque est. At illum etiam quando usu, eu vivendum prodesset nam. Ad sit quando euripidis. Eam no errem voluptua senserit.
+    </string>
+    <string name="breathe">Breathe</string>
+    <string name="breath_text">Breath in while the shape expands and breath our as it contracts. Focus on your breathing.</string>
+    <string name="meditate">Meditate</string>
+    <string name="meditate_text">Do this to meditate</string>
+    <string name="journal">Journal</string>
+    <string name="journal_text">Write down your thoughts:</string>
+    <string name="listen">Listen</string>
+    <string name="listen_text">Listen to some calming music</string>
     <string name="title_activity_start_splash">startSplash</string>
 </resources>
