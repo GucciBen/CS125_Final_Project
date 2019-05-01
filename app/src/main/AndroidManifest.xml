@@ -19,6 +19,10 @@
             </intent-filter>
         </activity>
         <activity android:name=".advice_1" />
+        <activity android:name=".help"/>
+        <activity android:name=".breathe"/>
+        <activity android:name=".journal"/>
+        <activity android:name=".meditate"/>
         <activity android:name=".MainActivity"/>
 
     </application>
