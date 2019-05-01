@@ -24,6 +24,11 @@
         <activity android:name=".journal"/>
         <activity android:name=".meditate"/>
         <activity android:name=".MainActivity"/>
+        <activity android:name=".break_advice"/>
+        <activity android:name=".nap_advice"/>
+        <activity android:name=".talk_advice"/>
+        <activity android:name=".walk_advice"/>
+
 
     </application>
 

@@ -57,10 +57,6 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    public void openSplash() {
-        Intent intent = new Intent(this, startSplash.class);
-        startActivity(intent);
-    }
     public void openAdvice_1() {
         Intent intent = new Intent(this, com.example.cs125finalproject.advice_1.class);
         overridePendingTransition(R.anim.fadein, R.anim.fadeout);
